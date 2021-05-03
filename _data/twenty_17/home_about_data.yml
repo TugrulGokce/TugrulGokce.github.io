@@ -1,0 +1,34 @@
+- inverted:
+  img: icon-about.jpeg
+  name: Tema, Vizyon, Misyon
+  info: Temamız, Vizyonumuz ve Misyonumuz hakkında daha fazla bilgi edinin
+  link: /about
+
+- inverted: timeline-inverted
+  img: icon-agenda.jpeg
+  name: Gündem
+  info: Gündemimize Bir Göz Atın
+  link: /agenda
+
+# - inverted:
+#   img: icon-team.jpeg
+#   name: Team
+#   info: Find out the team members
+#   link: /team
+
+- inverted:
+  img: icon-venue.jpeg
+  name: Lokasyon
+  info: Lokasyon Hakkında Bilgi Edinin
+  link: /venue
+# - inverted:
+#   img: icon-faq.jpeg
+#   name: FAQs
+#   info: Have a Question? Many answers can be found right here in our FAQs
+#   link: /faqs
+
+# - inverted: timeline-inverted
+#   img: booklet-icon.png
+#   name: Event Booklet
+#   info: View or Download our event booklet
+#   link: /booklet

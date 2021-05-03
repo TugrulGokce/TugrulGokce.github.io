@@ -1,0 +1,26 @@
+- title: Geoffrey Hinton
+  name: Name-1
+  subtitle: University of Toronto,Computer Scientist
+  img: geoff-hinton.jpg
+  thumbnail: geoff-hinton.jpg
+  alt: Geoffrey Hinton
+  topic: Machine learning,Neural networks,Artificial intelligence,Cognitive science,Object recognition
+  description: 
+
+- title: Andrew Ng
+  name: Name-2
+  subtitle: Founder of deeplearning.ai
+  img: Andrew.jpg
+  thumbnail: Andrew.jpg
+  alt: Andrew Ng
+  topic: Artificial Intelligence, Deep Learning, MOOC, Education technology
+  description: 
+
+- title: Ian Goodfellow
+  name: Name-3
+  subtitle: Stanford University,Computer Scientist
+  img: Ian_Goodfellow.jpg
+  thumbnail: Ian_Goodfellow.jpg
+  alt: Ian Goodfellow
+  topic: Generative adversarial networks,Adversarial Examples
+  description: 
